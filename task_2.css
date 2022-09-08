@@ -1,0 +1,32 @@
+html {
+    font: 15px/1.0 sans-serif;
+  }
+  
+  table {
+    color: rgb(24, 23, 23);
+  
+    background-color: #aac6e2;
+  }
+  
+  td,
+  th {
+    padding: 2em;
+  }
+  
+  th {
+    text-align: left;
+    vertical-align: bottom;
+  }
+  
+  tbody tr {
+    background-color: #449df7;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
+  .text-bold {
+    font-weight: bold;
+  }
+  
